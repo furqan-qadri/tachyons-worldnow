@@ -26,3 +26,6 @@ Contributions are welcome! If you find any issues or would like to add new featu
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+##Dev location
+Kuala Lumpur, Malaysia
